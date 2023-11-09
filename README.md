@@ -8,7 +8,7 @@ to speed up things and compare GraphQL using Apollo Server/Client vs SWR with Re
 ## Screenshots
 
 ### Client App
-<img width="1616" alt="Screenshot 2023-11-10 at 12 55 36 AM" src="https://github.com/AshishKapoor/learning-graphql-2023-nov/assets/5203107/88b65a3b-a5e6-430e-8be7-9f06ef7e73db">
+<img width="1547" alt="Screenshot 2023-11-10 at 1 06 55 AM" src="https://github.com/AshishKapoor/refresher-graphql/assets/5203107/fbfe6ab2-7556-41df-b857-6de9ac1eda50">
 
 ### Apollo's Graphql Studio (debugging)
-<img width="1616" alt="Screenshot 2023-11-10 at 12 58 04 AM" src="https://github.com/AshishKapoor/learning-graphql-2023-nov/assets/5203107/3bc2a04e-42b6-4956-9bfc-3d22d2ff4548">
+<img width="1641" alt="Screenshot 2023-11-10 at 1 07 17 AM" src="https://github.com/AshishKapoor/refresher-graphql/assets/5203107/fe71062c-3301-4f4e-ad82-eae9ba3ad757">
