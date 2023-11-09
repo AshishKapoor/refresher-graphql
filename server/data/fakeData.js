@@ -8,10 +8,10 @@ const UserList = [
     friends: [
       {
         id: 2,
-        name: "Pedro",
-        username: "PedroTech",
+        name: "Kapoor",
+        username: "KapoorTech",
         age: 20,
-        nationality: "BRAZIL",
+        nationality: "INDIA",
       },
       {
         id: 5,
@@ -24,10 +24,10 @@ const UserList = [
   },
   {
     id: 2,
-    name: "Pedro",
-    username: "PedroTech",
+    name: "Kapoor",
+    username: "KapoorTech",
     age: 20,
-    nationality: "BRAZIL",
+    nationality: "INDIA",
   },
   {
     id: 3,
@@ -38,10 +38,10 @@ const UserList = [
     friends: [
       {
         id: 2,
-        name: "Pedro",
-        username: "PedroTech",
+        name: "Kapoor",
+        username: "KapoorTech",
         age: 20,
-        nationality: "BRAZIL",
+        nationality: "INDIA",
       },
     ],
   },
