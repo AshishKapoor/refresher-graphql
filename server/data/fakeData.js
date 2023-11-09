@@ -45,20 +45,6 @@ const UserList = [
       },
     ],
   },
-  {
-    id: 4,
-    name: "Rafe",
-    username: "rafe123",
-    age: 60,
-    nationality: "GERMANY",
-  },
-  {
-    id: 5,
-    name: "Kelly",
-    username: "kelly2019",
-    age: 5,
-    nationality: "CHILE",
-  },
 ];
 
 const MovieList = [
