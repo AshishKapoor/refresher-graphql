@@ -1,4 +1,4 @@
-# Learning graphql in 2023
+# Refresher to graphql in 2023
 
 A simple CRUD web app which runs on an express server
 where the graphql resolvers and type definitions exist.
